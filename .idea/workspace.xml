@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf1a57a7-91e7-44dd-9046-6eb795424271" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/practice_1_0.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_1_0/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_1_0/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_1_0/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_1_0/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_1_0/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_app/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_app/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_app/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_app/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_app/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_project/test_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_project/test_project/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
