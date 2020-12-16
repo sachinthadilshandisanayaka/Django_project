@@ -5,7 +5,10 @@
     Hello World !!!
     my name is {{name}}
 </h1>
-    <form action="add">
+    <form action="add" method="post">
+
+        {% csrf_token %}
+
         <label>1st number</label><input type="text" name="num1"><br>
         <label>2nd number</label><input type="text" name="num2"><br>
         <input type="submit">
