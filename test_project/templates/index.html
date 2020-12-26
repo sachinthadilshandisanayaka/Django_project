@@ -121,6 +121,11 @@
             {% for dest in dests %}
             <tr>
                 <th class="leftClass">
+
+                    {% if dest.offer %}
+                    <span>Offer</span>
+                    {% endif %}
+
                     <h2>{{dest.name}}</h2>
                     <h3>Small ${{dest.price}}</h3>
                     <h5>{{dest.desc}}</h5>
