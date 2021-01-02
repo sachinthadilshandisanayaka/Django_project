@@ -22,9 +22,9 @@
         </div>
     </div>
     <div class="front-image">
-        {% for image in dests %}
+        {% for dest in dests %}
         <div class="slideimage">
-            <img src="{{image.img}}" alt="pizza">
+            <img src="{{dest.img.url}}" alt="pizza">
         </div>
         {% endfor %}
 <!--        <div class="slideimage">-->
